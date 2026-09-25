@@ -1,0 +1,6 @@
+{
+  "name": "RestoDine - In-Restaurant Digital Ordering & KDS Platform",
+  "description": "Multi-tenant in-restaurant QR digital ordering platform with real-time Kitchen Display System (KDS), waiter requests, table management, and restaurant admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
